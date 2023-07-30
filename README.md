@@ -9,11 +9,17 @@ O objetivo deste projeto consiste em utilizar a estrutura MVC para implementar d
 
 Tecnologia utilizada:
 
-Node JS
-
+Server Node JS
   - Express
   - EJS
   - Consign
   - Body-Parser
   - Express-Validator
   - Socket.io
+
+Clients
+  - HTML
+  - CSS
+  - Bootstrap
+  - Ajax
+  - JQuery
